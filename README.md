@@ -16,3 +16,12 @@ Example from [Docker Hub](https://hub.docker.com/repository/docker/peterricardo/
 
 `docker run peterricardo/go-fullcycle
 `
+
+# node-with-mysql
+
+A simple node + mysql using nginx as proxy
+
+### Run
+
+`docker-compose up --build -d
+`
